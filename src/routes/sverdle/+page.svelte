@@ -88,7 +88,7 @@
 <svelte:window on:keydown={keydown} />
 
 <svelte:head>
-	<title>Sverdle</title>
+	<title>Wordle, but SvelteKit this time</title>
 	<meta name="description" content="A Wordle clone written in SvelteKit" />
 </svelte:head>
 
